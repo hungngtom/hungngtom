@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hungngtom
 - 👀 I’m interested in animation, thriller books and movie soundtracks
 - 🌱 I’m currently learning R, Python, Machine Learning, Computer Vision, AI
-- 💞️ I’m looking to collaborate on AI language model projects, object detection/classification projects
+- 💞️ I’m looking to collaborate on data science, AI and deep learning projects
 - 📫 How to reach me: by my email nghungnguyen01@gmail.com
 - 😄 Pronouns: he/him
 
